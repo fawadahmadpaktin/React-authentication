@@ -1,0 +1,34 @@
+.wrap  { 
+    margin: 0;
+    padding: 0;
+    height: 50vh;
+    background-image: url('../../asset/image/home.jpg');
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .bg {
+    height:50vh;
+    background: rgba(0,0,0,0.5);
+    color: white;
+  }
+
+  
+.content{
+    display: table;
+    display: flex;
+    height: 50vh;
+    text-align: center;
+    align-items:center;
+    justify-content:center;
+}
+.span{
+    display: table-cell;
+    vertical-align: middle;
+}
+  
+.link-color{
+    color:#fff;
+}
